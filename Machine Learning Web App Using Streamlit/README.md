@@ -1,2 +1,27 @@
+# Unsupervised Machine Learning for Customer Market Segmentation
 
-Machine Learning Web App Using Streamlit
+## Table of contents
+* [Overview](#overview)
+* [Key Concepts](#key-concepts)
+* [Technologies / Languages](#technologies)
+* [Setup](#setup)
+
+## Overview
+> This project is basically a binary classification web app.In thi project,I created a web app using python's streamlit library. The web app with a user-friendly interface enables users to select an algotirhm and then accordingly it's hyperparamteres and then just hit the classify button to run the classification on data 
+## Key Tasks
+* Project Overview and Demo
+* Turn Simple Python Scripts into Web Apps
+* Load the Mushrooms Data Set
+* Creating Training and Test Sets
+* Plot Evaluation Metrics
+* Training a Support Vector Classifier
+* Training a Support Vector Classifier (Part 2)
+* Train a Logistic Regression Classifier
+* Training a Random Forest Classifier
+
+## Technologies
+* Python
+* Jupyter Notebook
+
+## Setup
+Just clone the repo and simply run the notebook. Please note that keep dataset and notebook in same directory or change to the dataset accordingly.
