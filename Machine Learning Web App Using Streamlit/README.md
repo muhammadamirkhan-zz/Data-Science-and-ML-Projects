@@ -1,4 +1,5 @@
-# Unsupervised Machine Learning for Customer Market Segmentation
+# UMachine Learning Web App Using Streamlit For Binary Classification
+
 
 ## Table of contents
 * [Overview](#overview)
@@ -7,7 +8,7 @@
 * [Setup](#setup)
 
 ## Overview
-> This project is basically a binary classification web app.In thi project,I created a web app using python's streamlit library. The web app with a user-friendly interface enables users to select an algotirhm and then accordingly it's hyperparamteres and then just hit the classify button to run the classification on data 
+> This project is basically a binary classification web app. The project classifies mushrooms into either edible or poisnuous class.The project is based on a web app built using python's streamlit library. With a user-friendly interface, it enables users to select an algotirhm and then accordingly set it's hyperparamteres and then just hit the classify button to run the classification on data 
 ## Key Tasks
 * Project Overview and Demo
 * Turn Simple Python Scripts into Web Apps
