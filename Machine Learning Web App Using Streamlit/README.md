@@ -1,4 +1,4 @@
-# UMachine Learning Web App Using Streamlit For Binary Classification
+# Machine Learning Web App Using Streamlit For Binary Classification
 
 
 ## Table of contents
