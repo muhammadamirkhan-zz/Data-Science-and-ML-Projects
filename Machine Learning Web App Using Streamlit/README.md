@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Key Concepts](#key-tasks)
+* [Key Tasks](#key-tasks)
 * [Technologies / Languages](#technologies)
 * [Setup](#setup)
 
